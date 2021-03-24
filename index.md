@@ -206,7 +206,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brad Crittenden
 1. Bram Hagens
 1. Brandon Butler
-1. Brendan Abolivier (Matrix Developer)
+1. Brendan Abolivier
 1. Brendan Hickey
 1. Brendan O'Leary
 1. Brennen Bearnes
@@ -954,6 +954,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pablo Martín Oldani
 1. Pamela S. Chestek (Open Source Initiative Director)
 1. Panagiotis Vasilopoulos
+1. parabirb
 1. Parker Higgins
 1. Park Seonu
 1. Partha Sarathy Thanka Raj
